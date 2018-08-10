@@ -9,6 +9,7 @@ https://www.instructables.com/id/Create-a-Joystick-Using-the-Arduino-Joystick-Li
 http://tronixstuff.com/2011/01/11/tutorial-using-analog-input-for-multiple-buttons/
 http://www.lucadentella.it/en/2014/08/01/interruttore-a-tre-posizioni-e-arduino/
 https://www.arduino.cc/en/Tutorial/KeyboardReprogram
+http://www.martyncurrey.com/switching-things-on-and-off-with-an-arduino/
 
 ## Features
 The joystick or gamepad can have the following features:
