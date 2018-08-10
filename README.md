@@ -7,6 +7,8 @@ https://www.instructables.com/id/How-to-Multiple-Buttons-on-1-Analog-Pin-Arduino
 https://www.instructables.com/id/How-to-access-5-buttons-through-1-Arduino-input/
 https://www.instructables.com/id/Create-a-Joystick-Using-the-Arduino-Joystick-Libra/
 http://tronixstuff.com/2011/01/11/tutorial-using-analog-input-for-multiple-buttons/
+http://www.lucadentella.it/en/2014/08/01/interruttore-a-tre-posizioni-e-arduino/
+https://www.arduino.cc/en/Tutorial/KeyboardReprogram
 
 ## Features
 The joystick or gamepad can have the following features:
