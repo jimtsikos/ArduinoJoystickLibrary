@@ -3,13 +3,13 @@
 This library can be used with Arduino IDE 1.6.6 (or above) to add one or more joysticks (or gamepads) to the list of HID devices an [Arduino Leonardo](https://www.arduino.cc/en/Main/ArduinoBoardLeonardo) or [Arduino Micro](https://www.arduino.cc/en/Main/ArduinoBoardMicro) (or any Arduino clone that is based on the ATmega32u4) can support. This library will also work with the [Arduino Due](https://www.arduino.cc/en/Main/ArduinoBoardDue), thanks to [@Palakis](https://github.com/Palakis). A complete list of supported boards can be found in the [Wiki](https://github.com/MHeironimus/ArduinoJoystickLibrary/wiki/Supported-Boards). This will not work with Arduino IDE 1.6.5 (or below) or with non-32u4 based Arduino devices (e.g. Arduino UNO, Arduino MEGA, etc.).
 
 ## Tutorials
-https://www.instructables.com/id/How-to-Multiple-Buttons-on-1-Analog-Pin-Arduino-Tu/
-https://www.instructables.com/id/How-to-access-5-buttons-through-1-Arduino-input/
-https://www.instructables.com/id/Create-a-Joystick-Using-the-Arduino-Joystick-Libra/
-http://tronixstuff.com/2011/01/11/tutorial-using-analog-input-for-multiple-buttons/
-http://www.lucadentella.it/en/2014/08/01/interruttore-a-tre-posizioni-e-arduino/
-https://www.arduino.cc/en/Tutorial/KeyboardReprogram
-http://www.martyncurrey.com/switching-things-on-and-off-with-an-arduino/
+- https://www.instructables.com/id/How-to-Multiple-Buttons-on-1-Analog-Pin-Arduino-Tu/
+- https://www.instructables.com/id/How-to-access-5-buttons-through-1-Arduino-input/
+- https://www.instructables.com/id/Create-a-Joystick-Using-the-Arduino-Joystick-Libra/
+- http://tronixstuff.com/2011/01/11/tutorial-using-analog-input-for-multiple-buttons/
+- http://www.lucadentella.it/en/2014/08/01/interruttore-a-tre-posizioni-e-arduino/
+- https://www.arduino.cc/en/Tutorial/KeyboardReprogram
+- http://www.martyncurrey.com/switching-things-on-and-off-with-an-arduino/
 
 ## Features
 The joystick or gamepad can have the following features:
